@@ -1,0 +1,66 @@
+Já começou a compreender a diferença? Observe especialmente a última linha da tabela, pois ela define bem a diferença entre o Analista de BI e o Cientista de Dados. Business Intelligence e Data Science tem muita coisa em comum e Analistas de BI e Cientistas de Dados são como primos. Ambos aplicam técnicas de análise aos dados, mas a sua abordagem, tecnologia e função diferem de diversas maneiras. O Analista de BI analisa dados históricos a fim de saber o que aconteceu, enquanto o Cientista de Dados também analisa dados históricos com o objetivo de prever o que pode acontecer. Vamos explorar um pouco mais os conceitos de BI e Data Science para compreender as diferenças entre esses profissionais.
+
+Business Intelligence
+Como disciplina, o Business Intelligence tem estado presente no ambiente corporativo há pelo menos 30 anos, começando pelo lançamento do MS Excel em 1985. Antes disso, a análise de dados limitava-se apenas a cálculos manuais usando métodos de teste e erro. Existem duas grandes tendências que contribuíram para a fundação do fenômeno da Ciência da Informação. Primeiro, o uso da tecnologia em vários setores da vida, particularmente o uso da Internet, levou a um boom de dados sem precedentes; O tipo de informação que está disponível para as organizações agora é quase infinito. Em segundo lugar, as novas tecnologias tornaram possível a análise e interpretação de grandes quantidades de dados e as empresas agora podem usar todos esses dados na tomada de decisões.
+
+O objetivo do Business Intelligence (BI) é converter dados brutos em insights de negócio que os líderes empresariais e gestores possam usar para tomar decisões. Os Analistas de BI usam ferramentas de BI para criar produtos de apoio à tomada de decisão e gestão. Se você quer construir dashboards de suporte à decisão, visualizações ou relatórios a partir de conjuntos médios de dados estruturados, existe um infinidade de ferramentas e métodos para isso. Em Business Intelligence usamos basicamente:
+
+Dados internos – dados coletados dentro da organização, gerados por colaboradores, gestores, sistemas e stakeholders em geral.
+
+Tecnologias e ferramentas – OLAP (online analytical process), ETL (extract, transforming and loading), Data Warehousing e Aplicações de Negócio.
+
+Insights que são gerados em Business Intelligence são derivados de conjuntos de dados de tamanho padrão e estruturados. Soluções de BI são principalmente construídas para análise de dados transacionais – dados que são gerados durante o curso de um evento de transação, como dados gerados durante uma venda, ou durante uma transferência de dinheiro entre contas bancárias, por exemplo. Dado transacional é um subproduto natural de atividades empresariais que ocorrem em toda a organização, e todos os tipos de inferências podem ser derivadas dessas atividades. Você pode usar o BI para obter os seguintes tipos de informação:
+
+Dados de Atendimento ao Cliente – respondendo à questão: “ Que áreas de negócio estão causando maior tempo de espera de nossos usuários? ”
+
+Dados de Marketing e Vendas – respondendo à questão: “ Que estratégias de marketing são mais efetivas e porque? “
+
+Dados Operacionais – respondendo à questão: “ Qual o nível de eficiência da operação de help-desk? ”
+
+Dados de Performance de Funcionários – respondendo à questão: “ Que colaboradores são mais produtivos? ”
+
+Para agilizar o trabalho da área de BI, as empresas precisam se certificar que os dados estejam organizados para facilidade de acesso e apresentação. Pode-se usar bancos de dados multidimensionais para isso. Ao contrário de bancos de dados relacionais, bancos de dados multidimensionais organizam os dados em cubos que são armazenados como matrizes multi-dimensionais. Para que as equipes de BI possam ser capazes de trabalhar com os dados de forma rápida e fácil, pode-se usar bancos de dados multidimensionais para armazenar dados em um cubo, em vez de armazenar os dados em vários bancos de dados relacionais que podem ou não ser compatíveis uns com os outros.
+
+Esta estrutura de dados em cubo, permite a utilização de Online Analytical Processing (OLAP) – uma tecnologia através da qual você pode acessar e usar os dados para todos os tipos de diferentes operações e análises. Para ilustrar o conceito de OLAP, imagine que você tem um cubo de dados de vendas que tem três dimensões – tempo, região e unidade de negócio. Você pode dividir os dados para ver apenas um quadrado – para ver uma região de vendas, por exemplo. Você pode cortar os dados para ver um cubo menor composto de um subconjunto de tempo, uma região e uma unidade de negócio. Você pode pesquisar para baixo ou para cima para ver os dados, de forma altamente detalhada ou muito resumida, respectivamente. E você pode totalizar, os números ao longo de uma dimensão – para números totais em unidades de negócio, por exemplo, ou para ver as vendas através do tempo e região apenas. Este é o trabalho de um Analista de BI, que normalmente possui também habilidades e conhecimento na área de negócio.
+
+BI x Data Science
+
+Data Science
+Dentro da empresa, a Ciência de Dados tem a mesma finalidade que o Business Intelligence – converter dados brutos em insights de negócios que os líderes empresariais e gestores possam usar para tomar decisões baseadas em dados. As empresas viram a disponibilidade de grandes volumes de dados como fonte de vantagem competitiva; As empresas que conseguem utilizar esses dados de forma eficaz tomam melhores decisões e estão à frente da curva de crescimento. Para dar sentido a tais dados, surgiu a necessidade de um novo conjunto de habilidades que incluísse a habilidade para definir e compreender problemas de negócio, habilidades analíticas, habilidades de programação, habilidades estatísticas, habilidades de aprendizado de máquina, visualização de dados e muito mais. . Isso levou ao surgimento do papel de um Cientista de Dados. Se a empresa possui grandes conjuntos de dados estruturados e não estruturados que podem ou não estar completos e sendo necessário converter essas fontes em informações valiosas para apoio à decisão, então a empresa deve recorrer a um Cientista de Dados. Ciência de dados centrada em negócio é multidisciplinar e integra os seguintes elementos:
+
+Análise Quantitativa – modelagem matemática, análise estatística, previsões e simulações.
+
+Habilidades em Programação – habilidades em programação para analisar dados brutos e torná-los acessíveis aos usuários de negócio.
+
+Conhecimento do Negócio – conhecimento do ambiente de negócio, para melhor compreender a relevância dos resultados encontrados.
+
+Ciência de Dados é uma disciplina pioneira. Cientistas de Dados muitas vezes empregam o método científico para a exploração de dados, formação de hipóteses e testes de hipóteses (através de simulação e modelagem estatística). Cientistas de Dados com foco de negócios geram conhecimentos valiosos, muitas vezes, explorando padrões e anomalias em dados de negócios. Ciência de Dados em um contexto de negócios é comumente composta de:
+
+Conjuntos de dados internos e externos – A Ciência de Dados é flexível. Você pode criar dados corporativos mashups a partir de fontes internas e externas de dados estruturados e não estruturados com bastante facilidade (dados mashup é uma combinação de duas ou mais fontes de dados, que são analisadas em conjunto, a fim de fornecer aos usuários uma visão mais completa da situação em foco).
+
+Tecnologias e ferramentas – Exemplos aqui poderiam envolver o uso de plataformas baseadas em nuvem, programação matemática, estatística e de aprendizado de máquina, análise de dados utilizando Python, R, Java ou Scala e de visualização avançada de dados.
+
+Você pode usar a Ciência de Dados para obter insights de negócios a partir de conjuntos de tamanho padrão de dados de negócios estruturados (assim como BI) ou a partir de conjuntos estruturados, semi-estruturados, não estruturados e Big Data. Soluções de Ciências de Dados não se limitam aos dados transacionais; você pode usar a ciência para criar valiosos insights de todas as fontes de dados disponíveis. Essas fontes de dados incluem:
+
+Dados Transacionais – Uma fonte de dados de negócio transacional é o mesmo tipo de dados estruturados utilizados em BI tradicional e inclui dados de gerenciamento, atendimento ao cliente, vendas e dados de marketing, dados operacionais e dados de desempenho do empregado.
+
+Dados de Mídias Sociais – dados não estruturados gerados a partir de e-mails, fóruns, blogs e redes sociais como Twitter, Facebook, LinkedIn, Pinterest e Instagram.
+
+Dados de Máquinas e Operações de Negócio – dados não estruturados gerados automaticamente por máquinas, tal como dados de sensores de automóveis, por exemplo.
+
+Dados de áudio, video, imagem e arquivos pdf – fontes de dados comuns e bem estabelecidas.
+
+Uma vez que os produtos da Ciência de Dados muitas vezes são gerados a partir de Big Data, soluções de plataformas de dados baseadas em nuvem são comuns neste campo. Os dados que são usados na Ciência de Dados são frequentemente derivados de soluções como Hadoop, MapReduce, Spark e processamento paralelo. Cientistas de Dados devem possuir visão inovadora e devem pensar fora da caixa, a fim de buscar soluções para os problemas que resolvem. Muitos Cientistas de Dados tendem para o uso de ferramentas open-source, quando disponíveis. A partir de uma perspectiva de custo, esta abordagem beneficia as organizações que empregam esses cientistas.
+
+Cientistas de Dados com foco em negócios podem usar técnicas de aprendizado de máquina (Machine Learning) para encontrar padrões e obter insights de grandes conjuntos de dados que estão relacionados com uma linha de negócio específica ou o negócio em geral. Eles são qualificados em matemática, estatística e programação, e usam essas habilidades para gerar modelos preditivos. Eles geralmente sabem como programar em Python, R, Java ou Scala. A maioria deles sabe como usar SQL para consultar dados relevantes.
+
+ 
+
+Analista de BI x Cientista de Dados
+BI x Data Science
+
+ 
+
+Um Cientista de Dados deve ter um forte senso de negócios e a capacidade de comunicar efetivamente conclusões baseadas em dados para os tomadores de decisão das empresas. Um Cientista de Dados não apenas abordará problemas de negócios, ele também escolherá os problemas certos que tenham mais valor para a organização. O trabalho de um Analista de BI é encontrar padrões e tendências nos dados históricos de uma organização. Enquanto o BI seja amplamente baseado na exploração de tendências passadas, a Ciência de Dados consiste em encontrar preditores e o significado dessas tendências. Assim, o objetivo principal de um Analista de BI é avaliar o impacto de certos eventos nas operações cotidianas de uma empresa ou comparar o desempenho de uma empresa com o de outras empresas no mesmo mercado. O Cientista de Dados é encarregado de avaliar como esses eventos impactam o futuro da empresa!
+
+E as ferramentas que ambos utilizam também são diferentes, já que Analistas de BI e Cientistas de Dados possuem objetivos diferentes a partir da análise de dados.

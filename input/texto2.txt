@@ -1,0 +1,12 @@
+jan 2500
+fev 3000
+mar 3150
+abr 4000
+mai 4500
+jun 2000
+jul 2356
+ago 1500
+set 1750
+out 3000
+nov 3125
+dez 3500
